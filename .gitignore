@@ -4,6 +4,7 @@
 
 ### Unity ###
 [Ll]ibrary/[Mm]etadata
+[Ll]ibrary/*[Cc]ache*
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
